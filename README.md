@@ -7,4 +7,4 @@ github仓库介绍：main 分支放置文件 ； master 分支放置代码压缩
 
 第一季度报告deadline：2024-07
 
-yolov5 Target_Detection_exp 于master分支中
+yolov5 Target_Detection_exp 于master分支中 大小2.1GB
